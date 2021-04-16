@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_schrittzaehler">
+
+    <fragment
+        android:id="@+id/navigation_schrittzaehler"
+        android:name="com.tobias.schrittzaehlerfacharbeit.ui.schrittzaehler.SchrittzaehlerFragment"
+        android:label="@string/title_pedometer"
+        tools:layout="@layout/schrittzaehler_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_beschleunigungssensor"
+        android:name="com.tobias.schrittzaehlerfacharbeit.ui.beschleunigungssensor.BeschleunigungsSensorFragment"
+        android:label="@string/title_acceleration"
+        tools:layout="@layout/beschleunigungs_sensor_fragment" />
+</navigation>

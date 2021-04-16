@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_schrittzaehler"
+        android:icon="@drawable/ic_directions_walk_black_24dp"
+        android:title="@string/title_pedometer" />
+
+    <item
+        android:id="@+id/navigation_beschleunigungssensor"
+        android:icon="@drawable/ic_show_chart_black_24dp"
+        android:title="@string/title_acceleration" />
+</menu>

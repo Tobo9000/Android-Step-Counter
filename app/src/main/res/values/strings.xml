@@ -1,0 +1,50 @@
+<resources>
+    <string name="facharbeit_text">Facharbeit von Tobias Schnürpel</string>
+
+    <string name="app_name">SchrittzaehlerFacharbeit</string>
+    <string name="title_pedometer">Schrittzähler</string>
+    <string name="title_acceleration">Beschleunigungssensor</string>
+
+    <string name="pedometer">Schrittzähler</string>
+    <string name="number_of_steps">Schrittanzahl:</string>
+    <string name="pedometer_running">Schrittzähler läuft</string>
+    <string name="pedometer_not_running">Schrittzähler gestoppt</string>
+    <string name="type_of_step">Schrittart:</string>
+    <string name="duration_of_step">Schrittdauer:</string>
+
+    <string name="acitvate_pedometer">Schrittzähler starten</string>
+    <string name="disable_pedometer">Schrittzähler stoppen</string>
+    
+    <string name="results">Ergebnisse</string>
+    <string name="of_the_last_measurement">der letzten Messung (geschätzt)</string>
+    <string name="total_steps">Schritte gesamt:</string>
+    <string name="from_that">davon…</string>
+    <string name="walking_steps">Gehen:</string>
+    <string name="jogging_steps">Joggen / schnelles Gehen:</string>
+    <string name="running_steps">Rennen:</string>
+    <string name="total_distance">Gesamtdistanz:</string>
+    <string name="average_speed">Durchschnittsgeschwindigkeit:</string>
+    <string name="average_frequency">Schrittfrequenz:</string>
+    <string name="burned_calories">Verbrannte Kalorien:</string>
+    <string name="moving_time">Bewegungszeit:</string>
+
+    <string name="walking">Gehen</string>
+    <string name="jogging">Joggen</string>
+    <string name="running">Rennen</string>
+
+    <string name="live_data">Live-Messwerte</string>
+    <string name="graph">Graph</string>
+    <string name="accel_unit" translatable="false">m/s²</string>
+    <string name="milliampere_unit" translatable="false">mA</string>
+    <string name="details">Details</string>
+    
+    <string name="name">Name:</string>
+    <string name="manufacturer">Hersteller:</string>
+    <string name="version">Version:</string>
+    <string name="energy">Energie:</string>
+    <string name="resolution">Auflösung:</string>
+    <string name="max_range">max. Bereich:</string>
+    <string name="min_range">min. Bereich:</string>
+    <string name="accuracy">Genauigkeit:</string>
+    <string name="delay">Delay:</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SchrittzaehlerFacharbeit</string>
+    <string name="facharbeit_text">Term Paper by Tobias Schnürpel</string>
+    <string name="title_pedometer">Pedometer</string>
+    <string name="title_acceleration">Accelerometer</string>
+    <string name="pedometer">Pedometer</string>
+    <string name="number_of_steps">Amount of Steps:</string>
+    <string name="pedometer_running">Pedometer running</string>
+    <string name="pedometer_not_running">Pedometer stopped</string>
+    <string name="type_of_step">Type of step:</string>
+    <string name="duration_of_step">Duration of step:</string>
+    <string name="acitvate_pedometer">Activate Pedometer</string>
+    <string name="disable_pedometer">Disable Pedometer</string>
+    <string name="results">Results</string>
+    <string name="of_the_last_measurement">of the last measurement (estimated)</string>
+    <string name="total_steps">Total steps:</string>
+    <string name="from_that">from that…</string>
+    <string name="walking_steps">Walking:</string>
+    <string name="jogging_steps">Jogging / Fast walking:</string>
+    <string name="running_steps">Running:</string>
+    <string name="total_distance">Total distance:</string>
+    <string name="average_speed">Average speed:</string>
+    <string name="average_frequency">Average frequency:</string>
+    <string name="burned_calories">Burned calories:</string>
+    <string name="moving_time">Moving time:</string>
+    <string name="walking">Walking</string>
+    <string name="jogging">Jogging</string>
+    <string name="running">Running</string>
+    <string name="live_data">Live data</string>
+    <string name="graph">Graph</string>
+    <string name="details">Details</string>
+    <string name="name">Name:</string>
+    <string name="manufacturer">Manufacturer:</string>
+    <string name="version">Version</string>
+    <string name="energy">Energy:</string>
+    <string name="resolution">Resolution:</string>
+    <string name="max_range">max. range:</string>
+    <string name="min_range">min. range:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="delay">Delay:</string>
+</resources>
